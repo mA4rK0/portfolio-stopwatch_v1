@@ -1,0 +1,37 @@
+body {
+  background-color: blanchedalmond;
+  font-family: "Poetsen One", sans-serif;
+}
+
+.stopwatch {
+  width: 90%;
+  max-width: 600px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/10.jpg);
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding: 40px 0;
+  color: whitesmoke;
+  margin: 200px auto 0;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+.stopwatch h1 {
+  margin-top: 60px;
+  font-size: 64px;
+  font-weight: 300;
+}
+
+/* .buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-outline-danger {
+  margin-right: 10rem;
+}
+
+.btn-outline-success {
+  margin-right: 5rem;
+} */
